@@ -5,6 +5,6 @@
 
 <img src="https://i.ibb.co/NVWZcSN/WSAcsgo.png" align="left">
 
-Vincent, Max, Lenny
+<a align="left" > Vincent, Max, Lenny </a>
 
 <img src="https://i.ibb.co/b5FFW4w/R3Y7F24O.png" align="right">
